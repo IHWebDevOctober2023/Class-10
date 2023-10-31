@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Sara",
+        "imageUrl": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+        "name": "Andrea",
+        "imageUrl": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "name": "Sofia",
+        "imageUrl": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "name": "Carla",
+        "imageUrl": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+        "name": "Maria",
+        "imageUrl": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "name": "Luisa",
+        "imageUrl": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+        "name": "Ana",
+        "imageUrl": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+        "name": "Julia",
+        "imageUrl": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+        "name": "Lucia",
+        "imageUrl": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+        "name": "Marta",
+        "imageUrl": "https://randomuser.me/api/portraits/women/10.jpg"
+    }
+]
